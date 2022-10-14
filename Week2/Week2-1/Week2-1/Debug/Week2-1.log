@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week2\Week2-1\Week2-1\Source.cpp(17,12): warning C4101: 'j': unreferenced local variable
+C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week2\Week2-1\Week2-1\Source.cpp(17,9): warning C4101: 'i': unreferenced local variable
+  Week2-1.vcxproj -> C:\Users\user\Desktop\CE\FirstYear\ProgramFundamental\VisualStudioCode\Week2\Week2-1\Debug\Week2-1.exe
